@@ -1,1 +1,1 @@
-# Algebra Lineal
+# Estadistica, Probabilidades y algebra lineal
